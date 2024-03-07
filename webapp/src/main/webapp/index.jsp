@@ -33,6 +33,6 @@
 
    <h1> thanks you from prashobh chandra </h1>
    <br>
-   <h1> best ci/cd from JMR </h1>
+   <h1> best ci/cd from Guru </h1>
    
 </form>
